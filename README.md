@@ -74,7 +74,7 @@ Each run gets a fresh directory, applies the target scope before anything downst
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/wildcard.git
+https://github.com/0xFat7y/WildC4rd.git
 cd wildcard
 ```
 
