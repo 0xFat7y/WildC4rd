@@ -150,7 +150,7 @@ See every option with `python3 wildcard.py --help`.
 ## Output Layout
 
 <p align="center">
-  <img src="docs/output-layout.png" alt="W!ldC4rd output layout" width="800">
+  
 </p>
 
 Every run is isolated — an old output file is never treated as proof that the current stage succeeded.
