@@ -1,0 +1,5 @@
+# W!ldC4rd Python dependencies
+# Install with: python3 -m pip install -r requirements.txt
+# A virtual environment is recommended on Debian/Ubuntu/Kali.
+
+requests>=2.32.0,<3
